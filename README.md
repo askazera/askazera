@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/b4/e3/71/b4e371619042d1e80918d09904e90f7d.gif)]
+![MasterHead](https://i.pinimg.com/originals/b4/e3/71/b4e371619042d1e80918d09904e90f7d.gif)
 <h1 align="center">Hi 👋, I'm Aska Victoria</h1>
 <h3 align="center">I am a woman passionate about programming, System Analysis and Development student and future data analyst</h3>
 
