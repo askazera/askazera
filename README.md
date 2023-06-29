@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/askavictoria/](https://www.linkedin.com/in/askavictoria/)
 
-- ⚡ Fun fact **I love to dance**
+- ⚡ Fun fact **I like to eat pizza with ketchup, sorry Italians!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
