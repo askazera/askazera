@@ -1,4 +1,4 @@
-![MasterHead]([https://i.pinimg.com/originals/b4/e3/71/b4e371619042d1e80918d09904e90f7d.gif](https://64.media.tumblr.com/0c298b8390beca578f619cea5a503f40/de3f987e488cfb94-1e/s1280x1920/f0e483db482fd99c54306269b4a5151bdcfa884c.jpg))
+<p align="center"><img src="https://uploads.spiritfanfiction.com/historias/capas/202205/porque-eu-escrevo-23914900-230520221904.jpg"/> </p>
 <h1 align="center">Hi 👋, I'm Aska Victoria</h1>
 <h3 align="center">I am a woman passionate about programming, System Analysis and Development student and future data analyst</h3>
 
