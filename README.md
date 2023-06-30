@@ -1,6 +1,6 @@
 <p align="center"><img src="https://uploads.spiritfanfiction.com/historias/capas/202205/porque-eu-escrevo-23914900-230520221904.jpg"/> </p>
 <h1 align="center">Hi 👋, I'm Aska Victoria</h1>
-<h3 align="center">I am a woman passionate about programming, System Analysis and Development student and future data analyst</h3>
+<h3 align="center">I am a woman passionate about programming </h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=askazera&label=Profile%20views&color=0e75b6&style=flat" alt="askazera" /> </p>
