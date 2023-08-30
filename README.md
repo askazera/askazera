@@ -1,4 +1,4 @@
-<p align="center"><img src="https://askazera.github.io/AskaPortfolio/images/Design_sem_nome__8_-removebg-preview.png"/> </p>
+<p align="center"><img src="https://askazera.github.io/AskaPortfolio/images/Design_sem_nome__8_-removebg-preview.png" width="300" height="300"/> </p>
 <h1 align="center">Hi 👋, I'm Aska Victoria</h1>
 <h3 align="center">I am a woman passionate about programming </h3>
 
