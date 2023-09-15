@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=askazera&label=Profile%20views&color=0e75b6&style=flat" alt="askazera" /> </p>
 
-- 🔭 I’m currently working on [HackerRank Exercicies](https://github.com/askazera/HackerRank)
-
 - 🌱 I’m currently learning **MySQL, Google Cloud**
 
 - 💬 Ask me about **python, data analysis, SQL**
