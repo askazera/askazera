@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/askavictoria/](https://www.linkedin.com/in/askavictoria/)
 
-- 📝 My website [https://askazera.github.io/AskaPortfolio/](https://askazera.github.io/AskaPortfolio/)
+- 📝 My website [https://askazera.github.io/AskaVictoria/index.html/](https://askazera.github.io/AskaVictoria/index.html/)
 
 - ⚡ Fun fact **I like to eat pizza with ketchup, sorry Italians!**
 
